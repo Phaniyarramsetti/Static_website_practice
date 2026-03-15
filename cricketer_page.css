@@ -1,0 +1,64 @@
+.bg-container {
+    background-color: #e6f6ff;
+    background-size: cover;
+    height: 120vh;
+    margin: 10px;
+}
+
+.text {
+    padding: 10px;
+}
+
+.cricketer-top-section {
+    background-color: #fb4e71;
+    height: 30vh;
+}
+
+.cricketer-name {
+    color: #ffffff;
+    font-family: roboto;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.cricketer-description {
+    color: #ffffff;
+    font-family: roboto;
+    font-size: 16px;
+}
+
+.sub-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    margin: 12px;
+}
+
+.bottom-section {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 13px;
+}
+
+.heading {
+    color: #323f4b;
+    font-size: 13px;
+}
+
+.paragraph {
+    color: #888888;
+    font-size: 13px;
+}
+
+.paragraph1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.image-container {
+    margin: 5px;
+    width: 96px;
+}
