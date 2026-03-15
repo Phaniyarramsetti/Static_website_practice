@@ -2,9 +2,7 @@
     background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/chatbg.png");
     height:150vh;
     background-size: cover;
-    width: 100vw;
 }
-
 .heading {
     font-size:17px;
     text-align: center;
@@ -14,7 +12,6 @@
     padding:10px;
     margin-bottom:45px;
 }
-
 .blue-text {
     width: 98vw;
     text-align: right;
@@ -26,9 +23,7 @@
     border-bottom-left-radius: 10px;
     padding: 7px;
     margin:10px;
-
 }
-
 .gray-text {
     width: 98vw;
     text-align: left;
