@@ -1,0 +1,58 @@
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height: 120vh;
+    width: 50vw;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.main-heading {
+    text-align: center;
+    color: white;
+    font-family: "roboto";
+    padding: 5px;
+    font-size: 40px;
+}
+
+.paragraph1 {
+    text-align: center;
+    color: white;
+    font-family: "roboto";
+    padding: 30px;
+    font-weight: lighter;
+}
+
+.side-heading {
+    color: white;
+    font-family: "roboto";
+    font-size: 12px;
+    text-align: left;
+    padding:10px
+}
+
+.paragraph2 {
+    padding:10px;
+    text-align: left;
+    color: white;
+}
+
+.button {
+    text-align: center;
+    color: white;
+    background-color: orange;
+    padding: 5px;
+    border-width: 1px;
+    height: 30px;
+    width: 80px;
+    font-size: 15px;
+    font-family: "roboto";
+}
+
+.paragraph3 {
+    color: white;
+    text-decoration: underline;
+    font-size: 10px;
+}
