@@ -1,7 +1,7 @@
 .bg-container {
     background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/codingbg.png");
-    height: 100vh;
     background-size: cover;
+    height:120vh;
     padding: 50px;
 }
 .paragraph {
