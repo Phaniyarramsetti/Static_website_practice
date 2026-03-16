@@ -1,0 +1,41 @@
+.movie-bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    padding:24px;
+}
+.movie-heading-container{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.movie-title {
+    color: #ffffff;
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 28px;
+}
+.button {
+    color: #ff8348;
+    font-family:"Roboto";
+    border-radius: 8px;
+    border-width:0px;
+    background-color: #ffffff;
+    font-size: 12px;
+    font-weight:500;
+    width: 98px;
+    height: 38px;
+}
+.movie-description {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "roboto";
+}
+.sub-heading{
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 18px;
+    font-weight:500;
+}
+.image {
+    margin-left:5px;
+    margin-right:5px;
+}
