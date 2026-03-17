@@ -1,0 +1,23 @@
+.mobile-image {
+    width: 100vw;
+}
+.details-container {
+    border-style: solid;
+    border-width: 2px;
+    padding: 20px;
+    color: #707070;
+}
+.heading {
+    color: #0a1f44;
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 22px;
+}
+.unordered-list {
+    color: #0a1f44;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 10px;
+
+}
