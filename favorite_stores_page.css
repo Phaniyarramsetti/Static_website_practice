@@ -1,0 +1,52 @@
+.bg-container {
+    background-color: #894bca;
+    background-size: cover;
+    height: 100vh;
+}
+.main-heading {
+    color: #ffffff;
+    font-size: 20px;
+    width: 40px;
+    font-family: "Bree Serif";
+    font-weight: normal;
+    padding: 35px;
+}
+.image {
+    height: 25vh;
+    width: 40vw;
+    margin-top: 10px;
+}
+.card-container {
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 20px;
+    height: 73vh;
+}
+.sub-container {
+    background-color: white;
+}
+.sub-heading {
+    color: #f780c3;
+    font-size: 18px;
+    font-family: "Bree Serif";
+}
+.heading {
+    color: black;
+    font-size: 18px;
+    font-family: "Bree Serif";
+}
+.paragraph {
+    color: #7b8794;
+    font-size: 12px;
+    font-family: "Bree Serif";
+    width: 100vw;
+}
+.logo-image {
+    height: 6vh;
+    width: 13vw;
+    margin: 10px;
+}
+.text {
+    padding: 8px;
+}
